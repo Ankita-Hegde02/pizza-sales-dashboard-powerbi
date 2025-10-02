@@ -13,7 +13,7 @@ This project showcases a dynamic sales dashboard built using Power BI to analyze
 - Power BI
 
 ## Dataset
-<a href="
+<a href="https://github.com/Ankita-Hegde02/pizza-sales-dashboard-powerbi/blob/main/pizza_sales.csv">View dataset</a>
 
   ## Dashboard 1
 ![Dashboard 1](https://github.com/Ankita-Hegde02/pizza-sales-dashboard-powerbi/blob/main/pizza%201.png)
@@ -21,3 +21,5 @@ This project showcases a dynamic sales dashboard built using Power BI to analyze
 ## Dashboard 2
 
 ![Dashboard 2](https://github.com/Ankita-Hegde02/pizza-sales-dashboard-powerbi/blob/main/pizza%202.png)  
+
+(Created with guidance from a YouTube tutorial to practice Power BI dashboard development)
